@@ -1,0 +1,68 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url('../img/energy.jpg');
+    background-repeat: no-repeat;
+    background-size:  100% auto;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2c363f;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #2c363f;
+}
+.hero-content {
+    margin-top: 2rem;
+}
+.hero-content  h1{
+    font-weight: 800;
+    font-size: 3rem;
+}
+.hero-content  h3{
+    font-weight: 600;
+    font-size: 2.1rem;
+}
+.social-content hero div{
+    border: 1px solid black;
+    border-radius:50% ;
+}
+/* about */
+.section-heading{
+    font-weight: 800;
+    font-size: 3.5rem;
+   
+
+}
+.container2{
+    background-image: url('../img/11.jpeg');
+    background-repeat: no-repeat;
+    background-size:  100% auto;
+}
+.btn-main {
+   background-color: #2c363f;
+   font-size: 1.3rem;
+   color: aliceblue;
+   
+}
+/* services */
+.service{
+    border-radius: 1.7rem;
+}
+.service h3{
+    font-weight: 700;
+}
+.service i{
+    font-size: 2rem;
+}
+/* contact */
+.contact input,
+.contact textarea{
+    padding: 0.1rem 0.4rem ;
+   font-size:  1.3rem;
+   width: 100%;
+}
+
